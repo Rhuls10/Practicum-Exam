@@ -1,0 +1,54 @@
+Music Playlist Manager App 
+
+GitHub link https://github.com/Rhuls10/Practicum-Exam.git 
+
+🔹 Description 
+
+This is an Android app built using Kotlin that allows users to create a playlist by entering the song title, artist name, rating, and comment for up to four songs. The app then displays the saved playlist along with the average rating of the songs added. 
+
+ 
+
+🚀 Features 
+
+Add up to 4 songs to your playlist 
+
+Input song title, artist, rating (1–5), and comment 
+
+View the full playlist in a scrollable list 
+
+See the average song rating 
+
+Navigate between input and view screens 
+
+User-friendly interface and validation 
+
+ 
+
+
+ 
+
+🛠 Technologies Used 
+
+ 
+
+ 
+
+Kotlin 
+
+Android Studio 
+
+Arrays and loops 
+
+Intents for screen navigation 
+
+ListView with a custom adapter 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
