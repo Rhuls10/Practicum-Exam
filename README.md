@@ -6,7 +6,6 @@ GitHub link https://github.com/Rhuls10/Practicum-Exam.git
 
 This is an Android app built using Kotlin that allows users to create a playlist by entering the song title, artist name, rating, and comment for up to four songs. The app then displays the saved playlist along with the average rating of the songs added. 
 
- 
 
 🚀 Features 
 
